@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+I am currently working on my CS minor.
+
+At the moment, I am learning web apps development using different frameworks.
 
 <!--
 **isabelleona/isabelleona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
