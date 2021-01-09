@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am currently working on my CS minor.
+I'm an EE currently working on its CS minor.
 
 At the moment, I am learning web apps development using different frameworks.
 
