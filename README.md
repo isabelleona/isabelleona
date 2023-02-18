@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm an EE & CS major.
+I'm an EE & CS major
 
-At the moment, I am working on iOS development in Swift.
+I'm currently working on iOS development in Swift and full-stack dev in Vue.js and Django.
 
 <!--
 **isabelleona/isabelleona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
